@@ -1,16 +1,14 @@
-## Hi there 👋
+<div>
+<a href="https://www.linkedin.com/in/camila-harumi-684733324/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-<!--
-**harumi7/harumi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! Since you are here, how about keep reading?
 
-Here are some ideas to get you started:
+First, my name is Camila Harumi and I am an Information Technology student from Brazil, at Pontifícia Universidade Católica do Paraná.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always looking for new opportunities, challenges and knowledge that will help me refine my skills.
+In addition to enjoying what I do, I am never far from other things that I truly value.
+
+- Mainly programming in Python
+- Learning HTML, CSS, JavaScript and Flutter
+- Studying languages: English, Spanish and Japanese
